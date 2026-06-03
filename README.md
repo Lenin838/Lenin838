@@ -78,12 +78,19 @@ Passionate about building real-world applications, solving complex problems, and
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Lenin838&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lenin838&show_icons=true&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Lenin838&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenin838&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## 📊 GitHub Activity Graph
