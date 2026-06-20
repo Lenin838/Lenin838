@@ -2,28 +2,50 @@ name: Generate Snake Animation
 
 on:
   schedule:
+    # Runs every day at midnight UTC
     - cron: "0 0 * * *"
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+# Sets permissions for the GITHUB_TOKEN
 permissions:
   contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - name: Generate Snake
+      # Step 1: Generate the snake animations
+      - name: Generate Snake Animations
         uses: Platane/snk@v3
+        id: snake-gif
         with:
+          # Your GitHub username
           github_user_name: Lenin838
+          # Define the output files with different palettes
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to Output Branch
-        uses: peaceiris/actions-gh-pages@v3
+      # Step 2: Deploy the generated files to the 'output' branch
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          # The branch where the generated files will be pushed
           publish_branch: output
+          # Directory containing the generated files
           publish_dir: dist
+          # Keep only the latest files
+          force_orphan: true
+          # Custom commit message
+          commit_message: "chore: update snake animation [skip ci]"
+
+      # Step 3: Verify deployment (optional)
+      - name: Verify Deployment
+        run: |
+          echo "✅ Snake animation deployed successfully!"
+          echo "📍 Dark version: https://raw.githubusercontent.com/Lenin838/Lenin838/output/github-contribution-grid-snake-dark.svg"
+          echo "📍 Light version: https://raw.githubusercontent.com/Lenin838/Lenin838/output/github-contribution-grid-snake.svg"
