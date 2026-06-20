@@ -10,7 +10,7 @@ Building scalable web applications, solving complex problems, and continuously l
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Engineer;React+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Redux+Toolkit+Enthusiast;DSA+Learner;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Engineer;React+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Redux+Toolkit+Learner;DSA+Enthusiast;Always+Learning+New+Technologies"/>
 
 </div>
 
@@ -20,19 +20,15 @@ Building scalable web applications, solving complex problems, and continuously l
 <img src="https://komarev.com/ghpvc/?username=Lenin838&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
----
-
 ## 🚀 About Me
 
-* 💻 Full Stack Developer specializing in MERN Stack Development
-* 🌱 Currently learning **Advanced React, Redux Toolkit, TypeScript & System Design**
-* 🧠 Passionate about **Data Structures & Algorithms**
-* 🔥 Built multiple real-world Full Stack Applications
-* ⚙️ Experienced in Authentication Systems, Admin Dashboards, REST APIs & Payment Integrations
-* 🛒 Developed a Production-Level E-Commerce Platform
-* 🎨 Familiar with UI/UX Design using Figma
-* 📚 Continuous Learner and Technology Enthusiast
-* 🤝 Open to Internships, Freelance Work & Collaboration Opportunities
+* 💻 MERN Stack Developer
+* 🌱 Learning Advanced React, TypeScript & System Design
+* 🧠 Passionate about Data Structures & Algorithms
+* 🔥 Building Full Stack Applications
+* 🛒 Creator of RYZO BAGS E-Commerce Platform
+* ⚡ Exploring Backend Architecture & Authentication Systems
+* 🤝 Open to Internship & Collaboration Opportunities
 
 ---
 
@@ -58,50 +54,15 @@ Building scalable web applications, solving complex problems, and continuously l
 
 # 💻 Tech Stack
 
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind" />
-</p>
-
-### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
-
----
-
-# ⚡ Technologies I Work With
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react" height="60"/>
-<img src="https://skillicons.dev/icons?i=redux" height="60"/>
-<img src="https://skillicons.dev/icons?i=ts" height="60"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="60"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="60"/>
-<img src="https://skillicons.dev/icons?i=express" height="60"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="60"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="60"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman,figma" />
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -143,183 +104,69 @@ Building scalable web applications, solving complex problems, and continuously l
 
 ---
 
-# 🧩 LeetCode Statistics
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/leninjoseph32?theme=dark&font=Karma&ext=contest"/>
-
-</div>
-
----
-
-# 🚀 Current Focus
-
-```text
-🔹 Advanced React Patterns
-🔹 Redux Toolkit
-🔹 TypeScript
-🔹 System Design
-🔹 Full Stack Architecture
-🔹 Data Structures & Algorithms
-```
-
----
-
 # 🛒 Featured Project
 
 ## RYZO BAGS – Full Stack E-Commerce Platform
 
-### Tech Stack
+### Features
 
-Node.js • Express.js • MongoDB • EJS • JavaScript • Razorpay
+✅ Authentication & Authorization
 
-### Key Features
+✅ OTP Verification
 
-✅ User Authentication & Authorization
-
-✅ Email OTP Verification
-
-✅ Forgot Password System
+✅ Admin Dashboard
 
 ✅ Product Management
 
 ✅ Category Management
 
-✅ Brand Management
-
-✅ Admin Dashboard
-
-✅ Offer Management
-
-✅ Search, Filter & Pagination
-
-✅ Wallet System
-
-✅ Razorpay Payment Integration
-
-✅ Order Management
-
-✅ Address Management
+✅ Search & Filter
 
 ✅ Wishlist & Cart
 
-✅ Session-Based Authentication
+✅ Wallet System
+
+✅ Razorpay Integration
+
+✅ Order Management
 
 ✅ Product Variants
 
-✅ Image Optimization
-
 ✅ Responsive UI
+
+### Tech Stack
+
+Node.js • Express.js • MongoDB • EJS • JavaScript • Razorpay
 
 ---
 
-# 🧠 Data Structures & Algorithms
-
-### Solved Topics
+# 🧠 DSA Journey
 
 * Arrays
 * Strings
 * Linked Lists
 * Stack
 * Queue
-* Hash Tables
 * Trees
-* Binary Search Trees
 * Heap
 * Graph
 * Trie
-* Recursion
 * Dynamic Programming
 * Greedy Algorithms
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals
 
 ✅ Master React Ecosystem
 
-✅ Learn TypeScript Deeply
-
-✅ Solve 300+ DSA Problems
-
-✅ Build Production-Ready Applications
+✅ Learn TypeScript
 
 ✅ Learn System Design
 
+✅ Build Production Ready Applications
+
 ✅ Contribute to Open Source
-
----
-
-# 🏅 Achievements
-
-✅ Full Stack E-Commerce Project
-
-✅ Authentication & Authorization Systems
-
-✅ Razorpay Payment Integration
-
-✅ Admin Dashboard Development
-
-✅ MongoDB Aggregation Expertise
-
-✅ MERN Stack Development
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Lenin838/Lenin838/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-
-</div>
-
----
-
-# 🕹️ Pacman Contribution Animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Lenin838/Lenin838/output/pacman-contribution-graph-dark.svg">
-
-<source media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/Lenin838/Lenin838/output/pacman-contribution-graph.svg">
-
-<img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/Lenin838/Lenin838/output/pacman-contribution-graph.svg"> </picture>
-
----
-
-# ⚡ Development Workflow
-
-```text
-Idea 💡
-   ↓
-Design 🎨
-   ↓
-Frontend ⚛️
-   ↓
-Backend 🚀
-   ↓
-Database 🍃
-   ↓
-Testing 🧪
-   ↓
-Deployment ☁️
-```
-
----
-
-# 🌟 Fun Fact
-
-```javascript
-while(!success){
-    learn();
-    build();
-    improve();
-}
-```
 
 ---
 
@@ -333,8 +180,6 @@ while(!success){
 
 ### ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,100:5B42F3&section=footer"/>
+If you like my work, consider starring my repositories.
 
 </div>
