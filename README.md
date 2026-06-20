@@ -12,7 +12,7 @@ Building scalable web applications, solving complex problems, and continuously l
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Engineer;React+Developer;Node.js+%7C+MongoDB+%7C+Express.js;DSA+Enthusiast;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Engineer;React+Developer;Node.js+%7C+Express.js+%7C+MongoDB;DSA+Enthusiast;Always+Learning+New+Technologies"/>
 
 </div>
 
@@ -27,7 +27,7 @@ Building scalable web applications, solving complex problems, and continuously l
 ## 🚀 About Me
 
 * 💻 Full Stack Developer specializing in MERN Stack Development
-* 🌱 Currently learning **React Advanced Patterns, Redux Toolkit, TypeScript & System Design**
+* 🌱 Currently learning **Advanced React, Redux Toolkit, TypeScript & System Design**
 * 🧠 Passionate about **Data Structures & Algorithms**
 * 🔥 Built multiple real-world Full Stack Applications
 * ⚙️ Experienced in Authentication Systems, Admin Dashboards, Payment Integration & REST APIs
@@ -40,7 +40,8 @@ Building scalable web applications, solving complex problems, and continuously l
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<div align="center">
+
 <a href="mailto:leninjoseph32@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -52,35 +53,42 @@ Building scalable web applications, solving complex problems, and continuously l
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
+
+</div>
 
 ---
 
 # 💻 Tech Stack
 
-### Frontend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman,figma" />
 
-### Backend
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
+---
 
-### Databases
+# ⚡ Technologies I Work With
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
+<div align="center">
 
-### Tools
+<img src="https://skillicons.dev/icons?i=react" height="60"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=redux" height="60"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=ts" height="60"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="60"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="60"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=express" height="60"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="60"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="60"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
-</p>
+</div>
 
 ---
 
@@ -136,49 +144,51 @@ Building scalable web applications, solving complex problems, and continuously l
 
 ---
 
-# 🚀 Featured Project
+# 👨‍💻 Coding Activity
 
-## 🛒 Full Stack E-Commerce Platform
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lenin838&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🛒 Featured Project
+
+## Full Stack E-Commerce Platform
 
 ### Tech Stack
 
 Node.js • Express.js • MongoDB • EJS • JavaScript • Razorpay
 
-### Key Features
+### Features
 
 ✅ User Authentication & Authorization
 
 ✅ Email OTP Verification
 
-✅ Forgot Password System
+✅ Forgot Password
 
-✅ Product Management
-
-✅ Category Management
-
-✅ Brand Management
+✅ Product & Category Management
 
 ✅ Admin Dashboard
 
-✅ Offer Management
-
 ✅ Search, Filter & Pagination
+
+✅ Wishlist & Cart
 
 ✅ Wallet System
 
-✅ Razorpay Payment Integration
+✅ Razorpay Integration
 
 ✅ Order Management
 
 ✅ Address Management
 
-✅ Wishlist & Cart
-
-✅ Session-Based Authentication
+✅ Session Authentication
 
 ✅ Product Variants
-
-✅ Image Cropping & Optimization
 
 ✅ Responsive UI
 
@@ -195,7 +205,7 @@ Node.js • Express.js • MongoDB • EJS • JavaScript • Razorpay
 * Queue
 * Hash Tables
 * Trees
-* Binary Search Trees
+* BST
 * Heap
 * Graph
 * Trie
@@ -218,6 +228,16 @@ Node.js • Express.js • MongoDB • EJS • JavaScript • Razorpay
 ✅ Learn System Design
 
 ✅ Contribute to Open Source
+
+---
+
+# 🕹️ Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lenin838/Lenin838/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lenin838/Lenin838/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lenin838/Lenin838/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
