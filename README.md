@@ -149,8 +149,11 @@ Building scalable web applications, solving real-world problems, and continuousl
 ## 🐍 Contribution Snake
 
 <picture>
+  <!-- Dark Mode -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lenin838/Lenin838/output/github-contribution-grid-snake-dark.svg">
+  <!-- Light Mode -->
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lenin838/Lenin838/output/github-contribution-grid-snake.svg">
+  <!-- Fallback -->
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Lenin838/Lenin838/output/github-contribution-grid-snake.svg">
 </picture>
 
