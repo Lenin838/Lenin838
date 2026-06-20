@@ -11,18 +11,21 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
-      - name: Generate Snake Animations
+      # Generate Light Version
+      - name: Generate Light Snake
         uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: Lenin838
-          # CRITICAL FIX: Generate BOTH files explicitly
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          outputs: dist/github-contribution-grid-snake.svg
+
+      # Generate Dark Version
+      - name: Generate Dark Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Lenin838
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v4
@@ -31,4 +34,3 @@ jobs:
           publish_branch: output
           publish_dir: dist
           force_orphan: true
-          commit_message: "chore: update snake animation [skip ci]"
