@@ -1,38 +1,41 @@
-# <h1 align="center">Hi 👋, I'm Lenin Joseph</h1>
+<h1 align="center">Hi 👋, I'm Lenin Joseph</h1>
 
 <h3 align="center">
 🚀 Full Stack Developer | MERN Stack Engineer | React Developer | Problem Solver
 </h3>
 
 <p align="center">
-Building scalable web applications, solving complex problems, and continuously learning modern technologies.
+Building scalable web applications, solving real-world problems, and continuously learning modern technologies.
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Engineer;React+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Redux+Toolkit+Learner;DSA+Enthusiast;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Engineer;React+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Building+Scalable+Applications;DSA+Enthusiast;Always+Learning+New+Technologies"/>
 
 </div>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Lenin838&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Lenin838&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
-
-## 🚀 About Me
-
-* 💻 MERN Stack Developer
-* 🌱 Learning Advanced React, TypeScript & System Design
-* 🧠 Passionate about Data Structures & Algorithms
-* 🔥 Building Full Stack Applications
-* 🛒 Creator of RYZO BAGS E-Commerce Platform
-* ⚡ Exploring Backend Architecture & Authentication Systems
-* 🤝 Open to Internship & Collaboration Opportunities
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 About Me
+
+* 💻 Full Stack Developer specializing in MERN Stack Development
+* 🌱 Currently learning **Advanced React, Redux Toolkit, TypeScript & System Design**
+* 🧠 Passionate about **Data Structures & Algorithms**
+* 🔥 Building scalable full-stack applications
+* 🛒 Creator of **RYZO BAGS E-Commerce Platform**
+* ⚙️ Experienced in Authentication Systems, Admin Dashboards & REST APIs
+* 📚 Continuous Learner and Technology Enthusiast
+* 🤝 Open to Internships and Collaboration Opportunities
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -62,7 +65,31 @@ Building scalable web applications, solving complex problems, and continuously l
 
 ---
 
-# 📊 GitHub Stats
+# ⚡ Technologies I Use
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react" height="60"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=redux" height="60"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=ts" height="60"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="60"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="60"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=express" height="60"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="60"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="60"/>
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -104,31 +131,45 @@ Building scalable web applications, solving complex problems, and continuously l
 
 ---
 
-# 🛒 Featured Project
+# 🧩 LeetCode Statistics
 
-## RYZO BAGS – Full Stack E-Commerce Platform
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/leninjoseph32?theme=dark&font=Karma&ext=contest"/>
+
+</div>
+
+---
+
+# 🚀 Featured Project
+
+## 🛒 RYZO BAGS – Full Stack E-Commerce Platform
 
 ### Features
 
-✅ Authentication & Authorization
+✅ User Authentication & Authorization
 
-✅ OTP Verification
+✅ Email OTP Verification
 
-✅ Admin Dashboard
+✅ Forgot Password System
 
 ✅ Product Management
 
 ✅ Category Management
 
-✅ Search & Filter
+✅ Admin Dashboard
+
+✅ Search, Filter & Pagination
 
 ✅ Wishlist & Cart
 
 ✅ Wallet System
 
-✅ Razorpay Integration
+✅ Razorpay Payment Integration
 
 ✅ Order Management
+
+✅ Address Management
 
 ✅ Product Variants
 
@@ -140,33 +181,50 @@ Node.js • Express.js • MongoDB • EJS • JavaScript • Razorpay
 
 ---
 
-# 🧠 DSA Journey
+# 🧠 Data Structures & Algorithms
+
+### Solved Topics
 
 * Arrays
 * Strings
 * Linked Lists
 * Stack
 * Queue
+* Hash Tables
 * Trees
+* Binary Search Trees
 * Heap
 * Graph
 * Trie
+* Recursion
 * Dynamic Programming
 * Greedy Algorithms
 
 ---
 
-# 🎯 Goals
+# 🎯 2026 Goals
 
 ✅ Master React Ecosystem
 
-✅ Learn TypeScript
+✅ Learn TypeScript Deeply
 
-✅ Learn System Design
+✅ Solve 300+ DSA Problems
 
 ✅ Build Production Ready Applications
 
+✅ Learn System Design
+
 ✅ Contribute to Open Source
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Lenin838/Lenin838/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+
+</div>
 
 ---
 
