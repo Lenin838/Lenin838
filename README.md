@@ -79,13 +79,6 @@ Building scalable web applications, solving real-world problems, and continuousl
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lenin838&theme=tokyo-night"/>
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lenin838&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-</div>
 
 ---
 
