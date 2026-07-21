@@ -1,168 +1,72 @@
-<h1 align="center">Hi 👋, I'm Lenin Joseph</h1>
-
-<h3 align="center">
-🚀 Full Stack Developer | MERN Stack Engineer | React Developer
-</h3>
-
 <p align="center">
-Building scalable web applications, solving real-world problems, and continuously learning modern technologies.
-</p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Engineer;React+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Redux+Toolkit+Developer;DSA+Enthusiast;Always+Learning+New+Technologies" />
-</div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lenin838&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
-
-## 🚀 About Me
-
-- 💻 Full Stack Developer specializing in MERN Stack
-- 🌱 Currently learning Advanced React, TypeScript & System Design
-- 🧠 Passionate about Data Structures & Algorithms
-- 🔥 Building scalable Full Stack Applications
-- 🛒 Creator of RYZO BAGS E-Commerce Platform
-- ⚙️ Experienced with Authentication, Admin Dashboards & REST APIs
-- 🤝 Open to Internships & Collaboration Opportunities
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:leninjoseph32@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://github.com/Lenin838">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Lenin%20Joseph" alt="Hello! I&#39;m Lenin Joseph" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=360&height=44&lines=MERN%20STACK%20DEVELOPER;REACT%20DEVELOPER" alt="Typing headlines" />
+</p>
 
-## 💻 Tech Stack
+### 🚀 About Me
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman,figma" />
-</div>
+Full Stack Developer | MERN Stack | React | Node.js | MongoDB | Building scalable web applications &amp; solving real-world problems
 
----
+### 🛠️ Tech Stack
 
-## 📊 GitHub Statistics
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lenin838&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenin838&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+### 🔗 Connect With Me
 
----
+<p align="left">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/lenin-joseph-746083340" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/LeninJosepeh" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/leni__n777/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:leninjoseph32@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-## 🔥 GitHub Streak
+### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lenin838&theme=tokyonight&hide_border=true"/>
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Lenin838&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Lenin838&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
----
+### 📈 Contribution Graph
 
-## 📈 GitHub Activity Graph
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lenin838&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lenin838&theme=tokyo-night"/>
-</div>
+### 💭 Dev Quote
 
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <!-- Dark Mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lenin838/Lenin838/output/github-contribution-grid-snake-dark.svg">
-  <!-- Light Mode -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lenin838/Lenin838/output/github-contribution-grid-snake.svg">
-  <!-- Fallback -->
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Lenin838/Lenin838/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 🧩 LeetCode Statistics
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/leninjoseph32?theme=dark&font=Karma&ext=contest"/>
-</div>
-
----
-
-## 🛒 Featured Project
-
-### RYZO BAGS – Full Stack E-Commerce Platform
-
-**Tech Stack:** Node.js • Express.js • MongoDB • EJS • JavaScript • Razorpay
-
-#### Features
-- Authentication & Authorization
-- OTP Verification
-- Product Management
-- Category Management
-- Admin Dashboard
-- Search & Filter
-- Wishlist & Cart
-- Wallet System
-- Razorpay Integration
-- Order Management
-- Product Variants
-- Responsive Design
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
 ---
-
-## 🧠 DSA Journey
-
-- Arrays
-- Strings
-- Linked Lists
-- Stack
-- Queue
-- Trees
-- Heap
-- Graph
-- Trie
-- Dynamic Programming
-- Greedy Algorithms
-
----
-
-## 🎯 2026 Goals
-
-- Master React Ecosystem
-- Learn TypeScript Deeply
-- Solve 300+ DSA Problems
-- Learn System Design
-- Build Production-Ready Applications
-- Contribute to Open Source
-
-
----
-
-## 💡 Favorite Quote
-
-> "Consistency beats intensity. Small progress every day leads to big results."
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider starring my repositories.
-
-</div>
+<p align="center"><i>⭐️ From <a href="https://github.com/Lenin838">Lenin838</a></i></p>
