@@ -2,7 +2,7 @@
 
 <img
   width="100%"
-  src="profile/github-banner.svg"
+  src="profile/github_banner.svg"
   alt="Lenin Joseph — MERN Stack Developer"
 />
 
