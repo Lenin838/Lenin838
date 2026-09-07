@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="profile/github_banner.svg" alt="Lenin Joseph — MERN Stack Developer" />
+<img
+  width="100%"
+  src="profile/github-banner.svg"
+  alt="Lenin Joseph — MERN Stack Developer"
+/>
 
 <br/>
 
