@@ -224,16 +224,26 @@ A production-oriented notification routing system designed around **priority que
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lenin838&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=13B9FD&icon_color=54C5F8&text_color=ccccdd&rank_icon=github" alt="Lenin Joseph GitHub Stats" />
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=Lenin838&show_icons=true&hide_border=true&theme=dark"
+  alt="GitHub Stats"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenin838&layout=compact&hide_border=true&bg_color=0d0d14&title_color=13B9FD&text_color=ccccdd&langs_count=8" alt="Top Languages" />
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenin838&layout=compact&hide_border=true&theme=dark"
+  alt="Top Languages"
+/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Lenin838&hide_border=true&background=0d0d14&ring=13B9FD&fire=13B9FD&currStreakLabel=13B9FD&sideLabels=ccccdd&currStreakNum=ccccdd&sideNums=ccccdd&dates=888899" alt="GitHub Streak" />
+<img
+  src="https://streak-stats.demolab.com?user=Lenin838&theme=dark&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
-
 <br/>
 
 ---
