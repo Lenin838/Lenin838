@@ -216,7 +216,7 @@ A production-oriented notification routing system designed around **priority que
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 <sub>📊 GITHUB ACTIVITY</sub>
 </div>
 
@@ -243,7 +243,7 @@ A production-oriented notification routing system designed around **priority que
   alt="GitHub Streak"
 />
 
-</div>
+</div> -->
 <br/>
 
 ---
