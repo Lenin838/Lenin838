@@ -215,34 +215,32 @@ A production-oriented notification routing system designed around **priority que
 
 ---
 
-<!-- <div align="center">
+<div align="center">
+
 <sub>📊 GITHUB ACTIVITY</sub>
-</div>
 
 <br/>
 
-<div align="center">
-
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=Lenin838&show_icons=true&hide_border=true&theme=dark"
-  alt="GitHub Stats"
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=Lenin838&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
+alt="Lenin Joseph GitHub Stats"
 />
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenin838&layout=compact&hide_border=true&theme=dark"
-  alt="Top Languages"
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenin838&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
+alt="Lenin Joseph Top Languages"
 />
 
 <br/><br/>
 
 <img
-  src="https://streak-stats.demolab.com?user=Lenin838&theme=dark&hide_border=true"
-  alt="GitHub Streak"
+src="https://streak-stats.demolab.com?user=Lenin838&theme=github-dark-blue&hide_border=true"
+alt="Lenin Joseph GitHub Streak"
 />
 
-</div> -->
+</div>
 <br/>
 
 ---
@@ -260,7 +258,7 @@ A production-oriented notification routing system designed around **priority que
 I regularly practice **Data Structures & Algorithms** to strengthen problem-solving skills,
 algorithmic thinking, and coding fundamentals.
 
-<br/><br/>
+<br/>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-0d0d14?style=for-the-badge\&logo=leetcode\&logoColor=FFA116)](https://leetcode.com/)
 
