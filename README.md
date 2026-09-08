@@ -7,12 +7,11 @@
 />
 
 <br/>
-
 <picture>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=2500&color=13B9FD&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%C2%B7+Ernakulam%2C+Kerala;Building+Scalable+Web+Applications;Solving+Real-World+Problems+with+Code" alt="MERN Stack Developer · Ernakulam, Kerala" />
 </picture>
 
-<br/><br/>
+<br/>
 
 ```text
 L  E  N  I  N     J  O  S  E  P  H
@@ -20,13 +19,13 @@ L  E  N  I  N     J  O  S  E  P  H
 
 <sub><sup>MERN STACK DEVELOPER  ·  PROBLEM SOLVER  ·  FULL-STACK BUILDER</sup></sub>
 
-<br/><br/>
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d14?style=flat\&logo=github\&logoColor=ffffff)](https://github.com/Lenin838) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d14?style=flat\&logo=linkedin\&logoColor=0A66C2)](https://www.linkedin.com/in/lenin-joseph-746083340/) 
 [![Email](https://img.shields.io/badge/Email-0d0d14?style=flat\&logo=gmail\&logoColor=EA4335)](mailto:leninjoseph32@gmail.com)
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Lenin838&color=13B9FD&style=flat&label=PROFILE+VIEWS" alt="Profile Views" />
 
@@ -300,22 +299,22 @@ algorithmic thinking, and coding fundamentals.
 <div align="center">
 <sub>🤝 LET'S CONNECT</sub>
 
-<br/><br/>
+<br/>
 
 I'm interested in collaborating on interesting projects,
 learning from other developers, and building software that solves meaningful problems.
 
-<br/><br/>
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lenin838-0d0d14?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Lenin838)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lenin_Joseph-0d0d14?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](https://www.linkedin.com/in/lenin-joseph-746083340/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-0d0d14?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](mailto:leninjoseph32@gmail.com)
 
-<br/><br/>
+<br/>
 
 <sub>Ernakulam, Kerala, India  ·  MERN Stack Developer  ·  Open to Collaboration</sub>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&pause=9999&color=556070&center=true&vCenter=true&width=450&lines=Build+%C2%B7+Learn+%C2%B7+Solve+%C2%B7+Improve" alt="Build · Learn · Solve · Improve" />
 
